@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sectioned RecyclerView Demo</string>
+    <string name="linear_sectioned_recyclerview_vertical">Linear Sectioned RecyclerView (Vertical)</string>
+    <string name="linear_sectioned_recyclerview_horizontal">Linear Sectioned RecyclerView (Horizontal)</string>
+    <string name="grid_sectioned_recyclerview">Grid Sectioned RecyclerView</string>
+    <string name="show_all">Show All</string>
+</resources>
